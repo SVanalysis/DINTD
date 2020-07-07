@@ -6,8 +6,11 @@ DINTD: Detection and Inference of Tandem Duplications from Short Sequencing Read
 1.1 Basic requirements:
 
 Software: Python, SAMtools,BWA
+
 Operating System: Linux
+
 Python version: 3.5.2 and the higer version
+
 package required: numpy, pysam,matplotlib,sklearn,numba
 
 1.2 Download:
